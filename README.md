@@ -17,7 +17,7 @@ The repository contains a mix of exercises descriptions and solutions:
 
 ## How to use this repository
 
-1. Start by selecting one exercise from the list of exercises.
+1. Start by selecting one exercise from the [list of exercises](list_exercises.md).
 2. Attempt to solve it yourself by a resonable time before looking at the solution
 3. Compare your solution with the provided solution
 4. Check the `md` files for insights
